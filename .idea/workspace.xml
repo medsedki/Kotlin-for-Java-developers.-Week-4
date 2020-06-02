@@ -1,0 +1,783 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="a1ca5bfa-057d-434c-ae81-19437a415ac0" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/codeStyles/Project.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/gradle.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__junit_junit_4_12.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__org_hamcrest_hamcrest_core_1_3.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__org_jetbrains_annotations_13_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__org_jetbrains_kotlin_kotlin_stdlib_1_3_72.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__org_jetbrains_kotlin_kotlin_stdlib_common_1_3_72.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__org_jetbrains_kotlin_kotlin_stdlib_jdk7_1_3_72.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__org_jetbrains_kotlin_kotlin_stdlib_jdk8_1_3_72.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules/Board/Task/Board-Task.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules/Kotlin_for_Java_Developers._Week_4.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules/Rationals/Task/Rationals-Task.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules/util/util.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Board/Task/task-info.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Board/lesson-info.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Rationals/Task/task-info.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Rationals/lesson-info.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/course-info.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MvvmCleanCode/.idea/codeStyles/Project.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MvvmCleanCode/.idea/codeStyles/codeStyleConfig.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MvvmCleanCode/.idea/gradle.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MvvmCleanCode/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../android-dagger2-example-master/app/src/androidTest/java/com/mindorks/example/android_dagger2_example/MainActivityTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../pharma/DMBETA/.idea/codeStyles/Project.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../.idea/compiler.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../.idea/copyright/profiles_settings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../.idea/encodings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../.idea/runConfigurations.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../app/build.gradle" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../app/src/main/AndroidManifest.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../app/src/main/assets/fonts/Ebrima.ttf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../app/src/main/assets/fonts/ebrimabd.ttf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../app/src/main/assets/web/page-1.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../app/src/main/assets/web/page-2.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../app/src/main/java/mobi/dotit/zitouna/BankContactActivity.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../app/src/main/java/mobi/dotit/zitouna/SimulatorResult.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../app/src/main/java/mobi/dotit/zitouna/activities/AccountDetailsActivity.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../app/src/main/java/mobi/dotit/zitouna/activities/AgencyListActivity.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../app/src/main/java/mobi/dotit/zitouna/activities/AgencyMapActivity.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../app/src/main/java/mobi/dotit/zitouna/activities/AllAgenciesMapActivity.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../app/src/main/java/mobi/dotit/zitouna/activities/AskForCardActivity.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../app/src/main/java/mobi/dotit/zitouna/activities/AskForCheckActivity.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../app/src/main/java/mobi/dotit/zitouna/activities/ChangePasswordActivity.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../app/src/main/java/mobi/dotit/zitouna/activities/ConsultationsActivity.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../app/src/main/java/mobi/dotit/zitouna/activities/ContactListActivity.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../app/src/main/java/mobi/dotit/zitouna/activities/ExternalTransferActivity.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../app/src/main/java/mobi/dotit/zitouna/activities/HomeScreenActivity.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../app/src/main/java/mobi/dotit/zitouna/activities/InternalTransferActivity.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../app/src/main/java/mobi/dotit/zitouna/activities/LoginActivity.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../app/src/main/java/mobi/dotit/zitouna/activities/MainScreenActivity.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../app/src/main/java/mobi/dotit/zitouna/activities/MessageDetailActivity.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../app/src/main/java/mobi/dotit/zitouna/activities/MessagesListActivity.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../app/src/main/java/mobi/dotit/zitouna/activities/RecipientListActivity.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../app/src/main/java/mobi/dotit/zitouna/activities/RecipientOperationsActivity.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../app/src/main/java/mobi/dotit/zitouna/activities/SearchMovementActivity.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../app/src/main/java/mobi/dotit/zitouna/activities/SecurityActivity.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../app/src/main/java/mobi/dotit/zitouna/activities/SelectedTransactionsListActivity.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../app/src/main/java/mobi/dotit/zitouna/activities/ServicesActivity.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../app/src/main/java/mobi/dotit/zitouna/activities/SimulatorActivity.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../app/src/main/java/mobi/dotit/zitouna/activities/SimulatorListActivity.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../app/src/main/java/mobi/dotit/zitouna/activities/SplashScreenActivity.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../app/src/main/java/mobi/dotit/zitouna/activities/SubAgencyListActivity.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../app/src/main/java/mobi/dotit/zitouna/activities/TransactionsListActivity.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../app/src/main/java/mobi/dotit/zitouna/activities/UserAccountsListActivity.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../app/src/main/java/mobi/dotit/zitouna/activities/UserAccountsListToFetchMvtActivity.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../app/src/main/java/mobi/dotit/zitouna/activities/UserAccountsListToTransactionActivity.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../app/src/main/java/mobi/dotit/zitouna/activities/VirementsActivity.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../app/src/main/java/mobi/dotit/zitouna/activities/ZeitounaSocialActivity.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../app/src/main/java/mobi/dotit/zitouna/adapters/ListAccountsAdapter.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../app/src/main/java/mobi/dotit/zitouna/adapters/ListMouvementAdapter.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../app/src/main/java/mobi/dotit/zitouna/adapters/ListTransactionAdapter.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../app/src/main/java/mobi/dotit/zitouna/callback/DemandeCarteCallback.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../app/src/main/java/mobi/dotit/zitouna/callback/GetAgencyCallback.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../app/src/main/java/mobi/dotit/zitouna/callback/Listenner.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../app/src/main/java/mobi/dotit/zitouna/context/ActivityContext.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../app/src/main/java/mobi/dotit/zitouna/context/ApplicationContext.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../app/src/main/java/mobi/dotit/zitouna/customkeyboard/CustomEditText.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../app/src/main/java/mobi/dotit/zitouna/customkeyboard/CustomKeyboardAdapter.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../app/src/main/java/mobi/dotit/zitouna/custommarkers/MarkerInfoWindowAdapter.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../app/src/main/java/mobi/dotit/zitouna/custommarkers/MyMarker.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../app/src/main/java/mobi/dotit/zitouna/data/BaseRepository.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../app/src/main/java/mobi/dotit/zitouna/data/DemandeCarteRepository.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../app/src/main/java/mobi/dotit/zitouna/di/components/ActivityComponent.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../app/src/main/java/mobi/dotit/zitouna/di/components/ApplicationComponent.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../app/src/main/java/mobi/dotit/zitouna/di/modules/ActivityContextModule.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../app/src/main/java/mobi/dotit/zitouna/di/modules/ActivityModule.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../app/src/main/java/mobi/dotit/zitouna/di/modules/ContextModule.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../app/src/main/java/mobi/dotit/zitouna/di/modules/PreferencesModule.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../app/src/main/java/mobi/dotit/zitouna/di/modules/RetrofitModule.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../app/src/main/java/mobi/dotit/zitouna/external/BZFonts.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../app/src/main/java/mobi/dotit/zitouna/external/MyConnection.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../app/src/main/java/mobi/dotit/zitouna/external/MyHostnameVerifier.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../app/src/main/java/mobi/dotit/zitouna/external/MySSLSocketFactory.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../app/src/main/java/mobi/dotit/zitouna/external/MyTrustManager.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../app/src/main/java/mobi/dotit/zitouna/external/MyZitouna.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../app/src/main/java/mobi/dotit/zitouna/external/Utils.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../app/src/main/java/mobi/dotit/zitouna/faq/FaqActivity.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../app/src/main/java/mobi/dotit/zitouna/faq/FaqHandler.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../app/src/main/java/mobi/dotit/zitouna/faq/FaqItem.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../app/src/main/java/mobi/dotit/zitouna/faq/FaqListAdapter.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../app/src/main/java/mobi/dotit/zitouna/holders/AccountsViewHolder.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../app/src/main/java/mobi/dotit/zitouna/holders/BaseViewHolder.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../app/src/main/java/mobi/dotit/zitouna/holders/MouvementViewHolder.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../app/src/main/java/mobi/dotit/zitouna/holders/TransactionViewHolder.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../app/src/main/java/mobi/dotit/zitouna/listeners/OnItemClickListener.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../app/src/main/java/mobi/dotit/zitouna/manager/ConnectManger.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../app/src/main/java/mobi/dotit/zitouna/model/Accounts.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../app/src/main/java/mobi/dotit/zitouna/model/Agency.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../app/src/main/java/mobi/dotit/zitouna/model/CardType.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../app/src/main/java/mobi/dotit/zitouna/model/Check.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../app/src/main/java/mobi/dotit/zitouna/model/Currency.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../app/src/main/java/mobi/dotit/zitouna/model/Extract.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../app/src/main/java/mobi/dotit/zitouna/model/Messages.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../app/src/main/java/mobi/dotit/zitouna/model/Recipient.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../app/src/main/java/mobi/dotit/zitouna/model/Simulation.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../app/src/main/java/mobi/dotit/zitouna/model/SimulatorType.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../app/src/main/java/mobi/dotit/zitouna/model/States.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../app/src/main/java/mobi/dotit/zitouna/network/NetworkInterface.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../app/src/main/java/mobi/dotit/zitouna/scope/ActivityScope.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../app/src/main/java/mobi/dotit/zitouna/scope/ApplicationScope.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../app/src/main/java/mobi/dotit/zitouna/ui/demandeCarte/activity/DemandeCarteActivity.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../app/src/main/java/mobi/dotit/zitouna/ui/demandeCarte/presenter/DemandeCartePresenter.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../app/src/main/java/mobi/dotit/zitouna/ui/demandeCarte/view/DemandeCarteContract.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../app/src/main/java/mobi/dotit/zitouna/ui/demandeRestriction/activity/DemandeRestrictionActivity.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../app/src/main/java/mobi/dotit/zitouna/ui/demandeRestriction/presenter/DemandeRestrictionPresenter.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../app/src/main/java/mobi/dotit/zitouna/ui/demandeRestriction/view/DemandeRestrictionContract.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../app/src/main/java/mobi/dotit/zitouna/ui/model/AgenceAndAccount.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../app/src/main/java/mobi/dotit/zitouna/ui/model/GetAccount.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../app/src/main/java/mobi/dotit/zitouna/ui/model/GetAccountResponse.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../app/src/main/java/mobi/dotit/zitouna/ui/model/GetAccountResult.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../app/src/main/java/mobi/dotit/zitouna/ui/model/GetAgency.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../app/src/main/java/mobi/dotit/zitouna/ui/model/GetAgencyResponse.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../app/src/main/java/mobi/dotit/zitouna/ui/model/GetAgencyResult.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../app/src/main/java/mobi/dotit/zitouna/ui/suivieDemandeCarteBancaire/activity/SuivieDemandeCarteActivity.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../app/src/main/java/mobi/dotit/zitouna/ui/suivieDemandeCarteBancaire/adapter/SuivieDemandeCarteAdapter.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../app/src/main/java/mobi/dotit/zitouna/ui/suivieDemandeCarteBancaire/presenter/SuivieDemandeCartePresenter.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../app/src/main/java/mobi/dotit/zitouna/ui/suivieDemandeCarteBancaire/view/SuivieDemandeCarteContract.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../app/src/main/java/mobi/dotit/zitouna/utils/AbstractBaseActivity.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../app/src/main/java/mobi/dotit/zitouna/utils/JsonKeys.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../app/src/main/res/anim/down_in.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../app/src/main/res/anim/down_out.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../app/src/main/res/anim/up_in.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../app/src/main/res/anim/up_out.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../app/src/main/res/drawable-hdpi/ab_back.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../app/src/main/res/drawable-hdpi/ab_back_selected.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../app/src/main/res/drawable-hdpi/ab_exit.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../app/src/main/res/drawable-hdpi/ab_exit_selected.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../app/src/main/res/drawable-hdpi/ab_home.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../app/src/main/res/drawable-hdpi/ab_home_selected.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../app/src/main/res/drawable-hdpi/add.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../app/src/main/res/drawable-hdpi/address.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../app/src/main/res/drawable-hdpi/agence.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../app/src/main/res/drawable-hdpi/agency_title_bg.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../app/src/main/res/drawable-hdpi/background.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../app/src/main/res/drawable-hdpi/banque_zitouna.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../app/src/main/res/drawable-hdpi/bg_keybord_item.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../app/src/main/res/drawable-hdpi/bg_keybord_item_selected.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../app/src/main/res/drawable-hdpi/bill.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../app/src/main/res/drawable-hdpi/binaet.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../app/src/main/res/drawable-hdpi/btn_info_marker.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../app/src/main/res/drawable-hdpi/calrt.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../app/src/main/res/drawable-hdpi/card.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../app/src/main/res/drawable-hdpi/changepass.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../app/src/main/res/drawable-hdpi/cheque.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../app/src/main/res/drawable-hdpi/connect.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../app/src/main/res/drawable-hdpi/connecthover.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../app/src/main/res/drawable-hdpi/consult_carte.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../app/src/main/res/drawable-hdpi/consult_compte.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../app/src/main/res/drawable-hdpi/consult_engagement.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../app/src/main/res/drawable-hdpi/consulter.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../app/src/main/res/drawable-hdpi/currency.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../app/src/main/res/drawable-hdpi/cw.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../app/src/main/res/drawable-hdpi/delete.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../app/src/main/res/drawable-hdpi/delete_.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../app/src/main/res/drawable-hdpi/delete_text.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../app/src/main/res/drawable-hdpi/dial.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../app/src/main/res/drawable-hdpi/edit.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../app/src/main/res/drawable-hdpi/edit_.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../app/src/main/res/drawable-hdpi/edittext_bg_off.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../app/src/main/res/drawable-hdpi/edittext_bg_off_2.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../app/src/main/res/drawable-hdpi/edittext_bg_on.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../app/src/main/res/drawable-hdpi/edittext_bg_on_2.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../app/src/main/res/drawable-hdpi/email.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../app/src/main/res/drawable-hdpi/email_2.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../app/src/main/res/drawable-hdpi/engagement.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../app/src/main/res/drawable-hdpi/exit.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../app/src/main/res/drawable-hdpi/externalt.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../app/src/main/res/drawable-hdpi/extract.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../app/src/main/res/drawable-hdpi/facebook.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../app/src/main/res/drawable-hdpi/ggl.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../app/src/main/res/drawable-hdpi/green.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../app/src/main/res/drawable-hdpi/head_logo.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../app/src/main/res/drawable-hdpi/icon.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../app/src/main/res/drawable-hdpi/icon_tamouil_akkarat_afrad.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../app/src/main/res/drawable-hdpi/inbox.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../app/src/main/res/drawable-hdpi/internalt.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../app/src/main/res/drawable-hdpi/linkedin.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../app/src/main/res/drawable-hdpi/login.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../app/src/main/res/drawable-hdpi/logo_zitouna.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../app/src/main/res/drawable-hdpi/logout.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../app/src/main/res/drawable-hdpi/menu_bg_agence.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../app/src/main/res/drawable-hdpi/menu_bg_contact.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../app/src/main/res/drawable-hdpi/menu_bg_simulateur.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../app/src/main/res/drawable-hdpi/menu_icon_agence.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../app/src/main/res/drawable-hdpi/menu_icon_agence_selected.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../app/src/main/res/drawable-hdpi/menu_icon_contact.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../app/src/main/res/drawable-hdpi/menu_icon_contact_selected.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../app/src/main/res/drawable-hdpi/menu_icon_faq.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../app/src/main/res/drawable-hdpi/menu_icon_faq_selected.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../app/src/main/res/drawable-hdpi/menu_icon_security.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../app/src/main/res/drawable-hdpi/menu_icon_security_selected.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../app/src/main/res/drawable-hdpi/menu_icon_simulateur.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../app/src/main/res/drawable-hdpi/menu_icon_simulateur_selected.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../app/src/main/res/drawable-hdpi/menzel2main.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../app/src/main/res/drawable-hdpi/menzel_promoteur.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../app/src/main/res/drawable-hdpi/messages.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../app/src/main/res/drawable-hdpi/minus.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../app/src/main/res/drawable-hdpi/mochtarayet.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../app/src/main/res/drawable-hdpi/mvt.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../app/src/main/res/drawable-hdpi/next.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../app/src/main/res/drawable-hdpi/ok.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../app/src/main/res/drawable-hdpi/open_message.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../app/src/main/res/drawable-hdpi/opposition_card.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../app/src/main/res/drawable-hdpi/password.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../app/src/main/res/drawable-hdpi/phone.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../app/src/main/res/drawable-hdpi/phone_number.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../app/src/main/res/drawable-hdpi/pin.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../app/src/main/res/drawable-hdpi/plus.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../app/src/main/res/drawable-hdpi/puce_titre.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../app/src/main/res/drawable-hdpi/recharge.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../app/src/main/res/drawable-hdpi/recipients.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../app/src/main/res/drawable-hdpi/recipients2.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../app/src/main/res/drawable-hdpi/red.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../app/src/main/res/drawable-hdpi/remove.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../app/src/main/res/drawable-hdpi/sayara4ch.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../app/src/main/res/drawable-hdpi/sayara5ch.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../app/src/main/res/drawable-hdpi/separator_.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../app/src/main/res/drawable-hdpi/separator_contact.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../app/src/main/res/drawable-hdpi/service.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../app/src/main/res/drawable-hdpi/services.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../app/src/main/res/drawable-hdpi/settings.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../app/src/main/res/drawable-hdpi/simul_cat_bg.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../app/src/main/res/drawable-hdpi/simul_consom_off.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../app/src/main/res/drawable-hdpi/simul_consom_on.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../app/src/main/res/drawable-hdpi/simul_immeuble_off.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../app/src/main/res/drawable-hdpi/simul_immeuble_on.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../app/src/main/res/drawable-hdpi/simul_main.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../app/src/main/res/drawable-hdpi/simul_main_clicked.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../app/src/main/res/drawable-hdpi/simul_separator.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../app/src/main/res/drawable-hdpi/simul_voiture_off.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../app/src/main/res/drawable-hdpi/simul_voiture_on.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../app/src/main/res/drawable-hdpi/simulator.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../app/src/main/res/drawable-hdpi/slogan.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../app/src/main/res/drawable-hdpi/spinner_bg.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../app/src/main/res/drawable-hdpi/spinner_bg2.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../app/src/main/res/drawable-hdpi/splash.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../app/src/main/res/drawable-hdpi/tahsinet.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../app/src/main/res/drawable-hdpi/tajhizet.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../app/src/main/res/drawable-hdpi/text_login.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../app/src/main/res/drawable-hdpi/title.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../app/src/main/res/drawable-hdpi/transfer.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../app/src/main/res/drawable-hdpi/twitter.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../app/src/main/res/drawable-hdpi/unread_message.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../app/src/main/res/drawable-hdpi/username.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../app/src/main/res/drawable-hdpi/validate.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../app/src/main/res/drawable-hdpi/valider.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../app/src/main/res/drawable-hdpi/valider_selected.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../app/src/main/res/drawable-hdpi/vide.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../app/src/main/res/drawable-hdpi/virement.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../app/src/main/res/drawable-hdpi/vvv.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../app/src/main/res/drawable-hdpi/youtube.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../app/src/main/res/drawable-mdpi/delete_.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../app/src/main/res/drawable-mdpi/edit_.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../app/src/main/res/drawable-mdpi/icon.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../app/src/main/res/drawable-mdpi/logo_zitouna.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../app/src/main/res/drawable-xhdpi/ab_back.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../app/src/main/res/drawable-xhdpi/ab_back_selected.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../app/src/main/res/drawable-xhdpi/ab_exit.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../app/src/main/res/drawable-xhdpi/ab_exit_selected.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../app/src/main/res/drawable-xhdpi/ab_home.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../app/src/main/res/drawable-xhdpi/ab_home_selected.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../app/src/main/res/drawable-xhdpi/add.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../app/src/main/res/drawable-xhdpi/address.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../app/src/main/res/drawable-xhdpi/agence.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../app/src/main/res/drawable-xhdpi/agency_title_bg.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../app/src/main/res/drawable-xhdpi/background.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../app/src/main/res/drawable-xhdpi/banque_zitouna.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../app/src/main/res/drawable-xhdpi/bg_keybord_item.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../app/src/main/res/drawable-xhdpi/bg_keybord_item_selected.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../app/src/main/res/drawable-xhdpi/bill.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../app/src/main/res/drawable-xhdpi/binaet.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../app/src/main/res/drawable-xhdpi/btn_info_marker.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../app/src/main/res/drawable-xhdpi/calrt.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../app/src/main/res/drawable-xhdpi/card.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../app/src/main/res/drawable-xhdpi/changepass.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../app/src/main/res/drawable-xhdpi/cheque.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../app/src/main/res/drawable-xhdpi/connect.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../app/src/main/res/drawable-xhdpi/connecthover.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../app/src/main/res/drawable-xhdpi/consult_carte.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../app/src/main/res/drawable-xhdpi/consult_compte.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../app/src/main/res/drawable-xhdpi/consult_engagement.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../app/src/main/res/drawable-xhdpi/consulter.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../app/src/main/res/drawable-xhdpi/currency.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../app/src/main/res/drawable-xhdpi/cw.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../app/src/main/res/drawable-xhdpi/delete.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../app/src/main/res/drawable-xhdpi/delete_.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../app/src/main/res/drawable-xhdpi/delete_text.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../app/src/main/res/drawable-xhdpi/dial.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../app/src/main/res/drawable-xhdpi/edit.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../app/src/main/res/drawable-xhdpi/edit_.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../app/src/main/res/drawable-xhdpi/edittext_bg_off.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../app/src/main/res/drawable-xhdpi/edittext_bg_off_2.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../app/src/main/res/drawable-xhdpi/edittext_bg_on.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../app/src/main/res/drawable-xhdpi/edittext_bg_on_2.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../app/src/main/res/drawable-xhdpi/email.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../app/src/main/res/drawable-xhdpi/email_2.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../app/src/main/res/drawable-xhdpi/engagement.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../app/src/main/res/drawable-xhdpi/exit.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../app/src/main/res/drawable-xhdpi/externalt.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../app/src/main/res/drawable-xhdpi/extract.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../app/src/main/res/drawable-xhdpi/facebook.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../app/src/main/res/drawable-xhdpi/ggl.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../app/src/main/res/drawable-xhdpi/green.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../app/src/main/res/drawable-xhdpi/head_logo.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../app/src/main/res/drawable-xhdpi/icon.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../app/src/main/res/drawable-xhdpi/icon_tamouil_akkarat_afrad.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../app/src/main/res/drawable-xhdpi/inbox.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../app/src/main/res/drawable-xhdpi/internalt.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../app/src/main/res/drawable-xhdpi/linkedin.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../app/src/main/res/drawable-xhdpi/login.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../app/src/main/res/drawable-xhdpi/logo_zitouna.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../app/src/main/res/drawable-xhdpi/logout.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../app/src/main/res/drawable-xhdpi/menu_bg_agence.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../app/src/main/res/drawable-xhdpi/menu_bg_contact.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../app/src/main/res/drawable-xhdpi/menu_bg_simulateur.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../app/src/main/res/drawable-xhdpi/menu_icon_agence.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../app/src/main/res/drawable-xhdpi/menu_icon_agence_selected.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../app/src/main/res/drawable-xhdpi/menu_icon_contact.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../app/src/main/res/drawable-xhdpi/menu_icon_contact_selected.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../app/src/main/res/drawable-xhdpi/menu_icon_faq.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../app/src/main/res/drawable-xhdpi/menu_icon_faq_selected.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../app/src/main/res/drawable-xhdpi/menu_icon_security.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../app/src/main/res/drawable-xhdpi/menu_icon_security_selected.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../app/src/main/res/drawable-xhdpi/menu_icon_simulateur.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../app/src/main/res/drawable-xhdpi/menu_icon_simulateur_selected.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../app/src/main/res/drawable-xhdpi/menzel2main.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../app/src/main/res/drawable-xhdpi/menzel_promoteur.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../app/src/main/res/drawable-xhdpi/messages.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../app/src/main/res/drawable-xhdpi/minus.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../app/src/main/res/drawable-xhdpi/mochtarayet.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../app/src/main/res/drawable-xhdpi/mvt.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../app/src/main/res/drawable-xhdpi/next.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../app/src/main/res/drawable-xhdpi/ok.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../app/src/main/res/drawable-xhdpi/open_message.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../app/src/main/res/drawable-xhdpi/opposition_card.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../app/src/main/res/drawable-xhdpi/password.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../app/src/main/res/drawable-xhdpi/phone.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../app/src/main/res/drawable-xhdpi/phone_number.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../app/src/main/res/drawable-xhdpi/pin.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../app/src/main/res/drawable-xhdpi/pin_zitouna.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../app/src/main/res/drawable-xhdpi/pin_zitouna2.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../app/src/main/res/drawable-xhdpi/plus.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../app/src/main/res/drawable-xhdpi/puce_titre.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../app/src/main/res/drawable-xhdpi/recharge.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../app/src/main/res/drawable-xhdpi/recipients.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../app/src/main/res/drawable-xhdpi/recipients2.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../app/src/main/res/drawable-xhdpi/red.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../app/src/main/res/drawable-xhdpi/remove.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../app/src/main/res/drawable-xhdpi/sayara4ch.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../app/src/main/res/drawable-xhdpi/sayara5ch.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../app/src/main/res/drawable-xhdpi/separator_.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../app/src/main/res/drawable-xhdpi/separator_contact.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../app/src/main/res/drawable-xhdpi/service.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../app/src/main/res/drawable-xhdpi/services.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../app/src/main/res/drawable-xhdpi/settings.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../app/src/main/res/drawable-xhdpi/simul_cat_bg.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../app/src/main/res/drawable-xhdpi/simul_consom_off.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../app/src/main/res/drawable-xhdpi/simul_consom_on.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../app/src/main/res/drawable-xhdpi/simul_immeuble_off.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../app/src/main/res/drawable-xhdpi/simul_immeuble_on.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../app/src/main/res/drawable-xhdpi/simul_main.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../app/src/main/res/drawable-xhdpi/simul_main_clicked.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../app/src/main/res/drawable-xhdpi/simul_separator.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../app/src/main/res/drawable-xhdpi/simul_voiture_off.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../app/src/main/res/drawable-xhdpi/simul_voiture_on.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../app/src/main/res/drawable-xhdpi/simulator.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../app/src/main/res/drawable-xhdpi/slogan.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../app/src/main/res/drawable-xhdpi/spinner_bg.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../app/src/main/res/drawable-xhdpi/spinner_bg2.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../app/src/main/res/drawable-xhdpi/splash.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../app/src/main/res/drawable-xhdpi/tahsinet.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../app/src/main/res/drawable-xhdpi/tajhizet.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../app/src/main/res/drawable-xhdpi/text_login.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../app/src/main/res/drawable-xhdpi/title.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../app/src/main/res/drawable-xhdpi/transfer.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../app/src/main/res/drawable-xhdpi/twitter.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../app/src/main/res/drawable-xhdpi/unread_message.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../app/src/main/res/drawable-xhdpi/username.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../app/src/main/res/drawable-xhdpi/validate.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../app/src/main/res/drawable-xhdpi/valider.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../app/src/main/res/drawable-xhdpi/valider_selected.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../app/src/main/res/drawable-xhdpi/vide.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../app/src/main/res/drawable-xhdpi/virement.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../app/src/main/res/drawable-xhdpi/vvv.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../app/src/main/res/drawable-xhdpi/youtube.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../app/src/main/res/drawable-xxhdpi/delete_.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../app/src/main/res/drawable-xxhdpi/edit_.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../app/src/main/res/drawable-xxhdpi/logo_zitouna.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../app/src/main/res/drawable/ab_back_icon.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../app/src/main/res/drawable/ab_exit_icon.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../app/src/main/res/drawable/ab_home_icon.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../app/src/main/res/drawable/bag_spinner.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../app/src/main/res/drawable/banque_zitouna.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../app/src/main/res/drawable/btn_info_marker.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../app/src/main/res/drawable/icon_tamouil_akkarat_afrad.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../app/src/main/res/drawable/keybord_bg.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../app/src/main/res/drawable/menu_agence_icon.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../app/src/main/res/drawable/menu_contact_icon.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../app/src/main/res/drawable/menu_faq_icon.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../app/src/main/res/drawable/menu_security_icon.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../app/src/main/res/drawable/menu_simulateur_icon.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../app/src/main/res/drawable/pin.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../app/src/main/res/drawable/pin_zitouna.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../app/src/main/res/drawable/pin_zitouna2.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../app/src/main/res/drawable/recipients2.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../app/src/main/res/drawable/shadow.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../app/src/main/res/drawable/shadow_bg.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../app/src/main/res/drawable/shape.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../app/src/main/res/drawable/simul_main.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../app/src/main/res/drawable/simul_main_clicked.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../app/src/main/res/drawable/slogan.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../app/src/main/res/drawable/spinner_sla.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../app/src/main/res/drawable/validate_.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../app/src/main/res/drawable/validate_bg.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../app/src/main/res/layout/account.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../app/src/main/res/layout/account_detail.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../app/src/main/res/layout/accounts_list.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../app/src/main/res/layout/activate_dialog.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../app/src/main/res/layout/activity_demande_carte_view.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../app/src/main/res/layout/activity_demande_ristriction.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../app/src/main/res/layout/activity_expandablelistitem_card.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../app/src/main/res/layout/activity_mylist.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../app/src/main/res/layout/activity_suivie_demande_carte.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../app/src/main/res/layout/add_dialog.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../app/src/main/res/layout/add_recepient.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../app/src/main/res/layout/askforcard.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../app/src/main/res/layout/askforcheck.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../app/src/main/res/layout/bz_actionbar.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../app/src/main/res/layout/change_pin.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../app/src/main/res/layout/content_demande_ristriction.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../app/src/main/res/layout/content_demande_suivie_carte.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../app/src/main/res/layout/content_suivie_demande_carte.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../app/src/main/res/layout/custom_dialog.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../app/src/main/res/layout/delete_dialog.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../app/src/main/res/layout/edit_dialog.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../app/src/main/res/layout/external_transfer.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../app/src/main/res/layout/external_transfer_dialog.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../app/src/main/res/layout/faq_list.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../app/src/main/res/layout/fetchmvt.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../app/src/main/res/layout/internal_transfer.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../app/src/main/res/layout/internal_transfer_dialog.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../app/src/main/res/layout/keyboard_item.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../app/src/main/res/layout/list_row.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../app/src/main/res/layout/login_footer.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../app/src/main/res/layout/login_screen.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../app/src/main/res/layout/main_screen.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../app/src/main/res/layout/main_screen_grid.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../app/src/main/res/layout/map_agency_layout.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../app/src/main/res/layout/marker_infowindow_layout.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../app/src/main/res/layout/menu.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../app/src/main/res/layout/message.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../app/src/main/res/layout/mouvement_list.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../app/src/main/res/layout/nv_single_mvt.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../app/src/main/res/layout/nv_transactions_list.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../app/src/main/res/layout/old_single_item.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../app/src/main/res/layout/recipient_screen.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../app/src/main/res/layout/security_layout.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../app/src/main/res/layout/simulator_categories.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../app/src/main/res/layout/simulator_form.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../app/src/main/res/layout/single_account.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../app/src/main/res/layout/single_account_details.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../app/src/main/res/layout/single_agency.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../app/src/main/res/layout/single_contact.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../app/src/main/res/layout/single_faq.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../app/src/main/res/layout/single_grid_main.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../app/src/main/res/layout/single_grid_simulator.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../app/src/main/res/layout/single_item.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../app/src/main/res/layout/single_item_for_dialog.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../app/src/main/res/layout/single_message.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../app/src/main/res/layout/single_mvt.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../app/src/main/res/layout/single_recipient.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../app/src/main/res/layout/single_simulator.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../app/src/main/res/layout/single_state.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../app/src/main/res/layout/single_theme.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../app/src/main/res/layout/socials_zitouna.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../app/src/main/res/layout/splash.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../app/src/main/res/layout/suivie_demande_carte_adapter.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../app/src/main/res/layout/toolbar_layout.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../app/src/main/res/layout/transaction_list.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../app/src/main/res/values/attrs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../app/src/main/res/values/colors.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../app/src/main/res/values/dimens.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../app/src/main/res/values/strings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../app/src/main/res/values/styles.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../build.gradle" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../gradle/wrapper/gradle-wrapper.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../gradle/wrapper/gradle-wrapper.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../gradlew" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../gradlew.bat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../import-summary.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../settings.gradle" beforeDir="false" />
+    </list>
+    <ignored path="$PROJECT_DIR$/.gradle/" />
+    <ignored path="$PROJECT_DIR$/build/" />
+    <ignored path="$PROJECT_DIR$/out/" />
+    <ignored path="$PROJECT_DIR$/Board/Task/.gradle/" />
+    <ignored path="$PROJECT_DIR$/Board/Task/build/" />
+    <ignored path="$PROJECT_DIR$/Board/Task/out/" />
+    <ignored path="$PROJECT_DIR$/Rationals/Task/.gradle/" />
+    <ignored path="$PROJECT_DIR$/Rationals/Task/build/" />
+    <ignored path="$PROJECT_DIR$/Rationals/Task/out/" />
+    <ignored path="$PROJECT_DIR$/util/.gradle/" />
+    <ignored path="$PROJECT_DIR$/util/build/" />
+    <ignored path="$PROJECT_DIR$/util/out/" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ExternalProjectsData">
+    <projectState path="$PROJECT_DIR$">
+      <ProjectState />
+    </projectState>
+  </component>
+  <component name="ExternalProjectsManager">
+    <system id="GRADLE">
+      <state>
+        <projects_view />
+      </state>
+    </system>
+  </component>
+  <component name="FileEditorManager">
+    <leaf>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/Rationals/Task/src/rationals/Rational.kt">
+          <provider selected="true" editor-type-id="StudyEditor">
+            <state>
+              <EduEditorState>
+                <MainEditorState relative-caret-position="-17">
+                  <caret line="5" column="77" selection-start-line="5" selection-start-column="77" selection-end-line="5" selection-end-column="77" />
+                </MainEditorState>
+              </EduEditorState>
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/Rationals/Task/src/rationals/Rational.kt" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="-6" />
+    <option name="y" value="3" />
+    <option name="width" value="1201" />
+    <option name="height" value="861" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectView">
+    <navigator currentView="Course" proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="Scope" />
+      <pane id="ProjectPane" />
+      <pane id="PackagesPane" />
+      <pane id="Course">
+        <subPane>
+          <expand>
+            <path>
+              <item name="Kotlin_for_Java_Developers._Week_4" type="a264ea2a:RootNode" />
+              <item name="Kotlin for Java Developers. Week 4" type="ed842865:CourseNode" />
+            </path>
+            <path>
+              <item name="Kotlin_for_Java_Developers._Week_4" type="a264ea2a:RootNode" />
+              <item name="Kotlin for Java Developers. Week 4" type="ed842865:CourseNode" />
+              <item name="Rationals" type="d53b8fed:LessonNode" />
+            </path>
+            <path>
+              <item name="Kotlin_for_Java_Developers._Week_4" type="a264ea2a:RootNode" />
+              <item name="Kotlin for Java Developers. Week 4" type="ed842865:CourseNode" />
+              <item name="Rationals" type="d53b8fed:LessonNode" />
+              <item name="Task" type="4928525d:TaskNode" />
+            </path>
+            <path>
+              <item name="Kotlin_for_Java_Developers._Week_4" type="a264ea2a:RootNode" />
+              <item name="Kotlin for Java Developers. Week 4" type="ed842865:CourseNode" />
+              <item name="Rationals" type="d53b8fed:LessonNode" />
+              <item name="Task" type="4928525d:TaskNode" />
+              <item name="src" type="61faebc3:DirectoryNode" />
+            </path>
+            <path>
+              <item name="Kotlin_for_Java_Developers._Week_4" type="a264ea2a:RootNode" />
+              <item name="Kotlin for Java Developers. Week 4" type="ed842865:CourseNode" />
+              <item name="Rationals" type="d53b8fed:LessonNode" />
+              <item name="Task" type="4928525d:TaskNode" />
+              <item name="src" type="61faebc3:DirectoryNode" />
+              <item name="rationals" type="61faebc3:DirectoryNode" />
+            </path>
+            <path>
+              <item name="Kotlin_for_Java_Developers._Week_4" type="a264ea2a:RootNode" />
+              <item name="Kotlin for Java Developers. Week 4" type="ed842865:CourseNode" />
+              <item name="Rationals" type="d53b8fed:LessonNode" />
+              <item name="Task" type="4928525d:TaskNode" />
+              <item name="test" type="61faebc3:DirectoryNode" />
+            </path>
+            <path>
+              <item name="Kotlin_for_Java_Developers._Week_4" type="a264ea2a:RootNode" />
+              <item name="Kotlin for Java Developers. Week 4" type="ed842865:CourseNode" />
+              <item name="Rationals" type="d53b8fed:LessonNode" />
+              <item name="Task" type="4928525d:TaskNode" />
+              <item name="test" type="61faebc3:DirectoryNode" />
+              <item name="rationals" type="61faebc3:DirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="android.sdk.path" value="$USER_HOME$/AppData/Local/Android/Sdk" />
+    <property name="not.eligible.for.single.variant.sync" value="true" />
+    <property name="settings.editor.selected.configurable" value="AndroidSdkUpdater" />
+    <property name="show.inlinked.gradle.project.popup" value="false" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager">
+    <configuration default="true" type="AndroidJUnit" factoryName="Android JUnit">
+      <option name="TEST_OBJECT" value="class" />
+      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
+      <method v="2">
+        <option name="Android.Gradle.BeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration>C:\Users\Dev_dotit\AppData\Roaming\Subversion</configuration>
+    <supportedVersion>125</supportedVersion>
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="a1ca5bfa-057d-434c-ae81-19437a415ac0" name="Default Changelist" comment="" />
+      <created>1591110608458</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1591110608458</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="TestHistory">
+    <history-entry file="All_in_Rationals-Task - 2020.06.02 at 16h 26m 33s.xml">
+      <configuration name="All in Rationals-Task" configurationId="AndroidJUnit" />
+    </history-entry>
+  </component>
+  <component name="TodoView">
+    <todo-panel id="selected-file">
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+    <todo-panel id="all">
+      <are-packages-shown value="true" />
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-8" y="-8" width="1616" height="876" extended-state="6" />
+    <layout>
+      <window_info content_ui="combo" id="Project" visible="true" weight="0.14460154" />
+      <window_info id="Structure" side_tool="true" />
+      <window_info id="Image Layers" />
+      <window_info id="Designer" />
+      <window_info id="Resources Explorer" />
+      <window_info id="Capture Tool" />
+      <window_info id="Favorites" side_tool="true" />
+      <window_info id="Captures" order="0" weight="0.25" />
+      <window_info anchor="bottom" id="Educational.CheckDetails" />
+      <window_info anchor="bottom" id="Version Control" weight="0.57222223" />
+      <window_info anchor="bottom" id="TODO" weight="0.32916668" />
+      <window_info anchor="bottom" id="Run" />
+      <window_info anchor="bottom" id="Find" />
+      <window_info anchor="bottom" id="Terminal" weight="0.32916668" />
+      <window_info anchor="bottom" id="Event Log" side_tool="true" weight="0.32916668" />
+      <window_info anchor="bottom" id="Messages" />
+      <window_info anchor="bottom" id="Build" weight="0.5" />
+      <window_info anchor="bottom" id="Debug" />
+      <window_info active="true" anchor="right" id="Task" visible="true" weight="0.37596402" />
+      <window_info anchor="right" id="Capture Analysis" />
+      <window_info anchor="right" id="Gradle" />
+      <window_info anchor="right" id="Theme Preview" />
+      <window_info anchor="right" id="Palette&#9;" />
+    </layout>
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/Rationals/Task/test/rationals/TestRationals.kt">
+      <provider selected="true" editor-type-id="StudyEditor">
+        <state>
+          <EduEditorState>
+            <MainEditorState />
+          </EduEditorState>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Board/Task/src/board/BoardImpl.kt">
+      <provider selected="true" editor-type-id="StudyEditor">
+        <state>
+          <EduEditorState>
+            <MainEditorState relative-caret-position="68">
+              <caret line="4" column="49" selection-start-line="4" selection-start-column="49" selection-end-line="4" selection-end-column="49" />
+            </MainEditorState>
+          </EduEditorState>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Rationals/Task/src/rationals/Rational.kt">
+      <provider selected="true" editor-type-id="StudyEditor">
+        <state>
+          <EduEditorState>
+            <MainEditorState relative-caret-position="-17">
+              <caret line="5" column="77" selection-start-line="5" selection-start-column="77" selection-end-line="5" selection-end-column="77" />
+            </MainEditorState>
+          </EduEditorState>
+        </state>
+      </provider>
+    </entry>
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="ProjectJDKs.UI">
+        <settings>
+          <last-edited>Android API 7 Platform</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
+  </component>
+</project>
